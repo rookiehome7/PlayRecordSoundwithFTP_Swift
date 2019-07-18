@@ -1,0 +1,6 @@
+framework module Pods_soundPlay {
+  umbrella header "Pods-soundPlay-umbrella.h"
+
+  export *
+  module * { export * }
+}
